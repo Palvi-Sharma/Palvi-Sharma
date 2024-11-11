@@ -6,7 +6,7 @@ I'm an aspiring data analyst passionate about uncovering insights from data. Cur
 - 💬 Keen interest in data analysis, predictive modeling, and forecasting techniques.
 - 📫 Connect with me: palvi.sharma@mail.mcgill.ca
 - 😄 Pronouns: She/her.
-- ⚡ Fun fact: I once built a chatbot just for fun, and it learned to play Tic-Tac-Toe!
+- ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
 
 **Technical Skills:**
 - **Programming Languages**: Python, R, SQL
