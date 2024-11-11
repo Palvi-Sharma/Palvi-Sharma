@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! I am Palvi Sharma 👋
+I'm an aspiring data analyst passionate about uncovering insights from data. Currently studying data science and honing my skills in predictive modeling, data visualization, and analysis. I'm eager to apply my skills in real-world projects.
+
 
 <!--
 **Palvi-Sharma/Palvi-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
