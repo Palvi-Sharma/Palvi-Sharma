@@ -9,9 +9,9 @@ I'm an aspiring data analyst passionate about uncovering insights from data. Cur
 - ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
 
 **Technical Skills:**
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, MySQL, Gurobi
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn
-- **Visualization**: Matplotlib, Seaborn, Tableau
+- **Visualization**: Matplotlib, Seaborn, Power BI
 
 **Analytical Projects:**
 - **Electricity Consumption Forecasting**: Developed a time-series model to predict electricity usage using ARIMA and LSTM models.
