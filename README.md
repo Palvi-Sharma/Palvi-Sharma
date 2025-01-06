@@ -13,8 +13,4 @@ I'm an aspiring data analyst passionate about uncovering insights from data. Cur
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn
 - **Visualization**: Matplotlib, Seaborn, Power BI
 
-**Analytical Projects:**
-- **Electricity Consumption Forecasting**: Developed a time-series model to predict electricity usage using ARIMA and LSTM models.
-- **IMDb Score Prediction**: Created a regression model to predict IMDb scores using movie budgets, news coverage, and other metrics.
-
 ![Profile views](https://komarev.com/ghpvc/?username=Palvi-Sharma)
