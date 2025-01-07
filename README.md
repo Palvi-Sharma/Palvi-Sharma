@@ -9,7 +9,7 @@ I'm an aspiring data analyst passionate about uncovering insights from data and 
 - ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
 
 **Technical Skills:**
-- **Programming Languages**: Python, R, MySQL, Gurobi 
+- **Programming Languages**: Python, R, SQL,
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel
 - **Models Used:** Regression models, Tree-based, Time-series, Clustering, Gen AI, Optimization (linear & non-linear)
