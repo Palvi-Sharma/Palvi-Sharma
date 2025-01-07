@@ -12,6 +12,6 @@ I'm an aspiring data analyst passionate about uncovering insights from data and 
 - **Programming Languages**: Python, R, SQL,
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel
-- **Models Used:** Regression models, Tree-based, Time-series, Clustering, Gen AI, Optimization (linear & non-linear)
+- **Models Used:** Regression models, Tree-based, Time-series, Clustering, Pytorch, Generative AI, deep learning, Optimization (linear & non-linear)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Palvi-Sharma)
