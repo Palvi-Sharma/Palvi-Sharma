@@ -9,8 +9,8 @@ I'm an aspiring data analyst passionate about uncovering insights from data and 
 - ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
 
 **Technical Skills:**
-- **Programming Languages**: Python, R, MySQL, Gurobi
-- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn
-- **Visualization**: Matplotlib, Seaborn, Power BI
+- **Programming Languages**: Python, R, MySQL, Gurobi 
+- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel
 
 ![Profile views](https://komarev.com/ghpvc/?username=Palvi-Sharma)
