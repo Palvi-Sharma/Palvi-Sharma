@@ -3,7 +3,7 @@ I'm an aspiring data analyst passionate about uncovering insights from data and 
 
 - 🌱 Currently learning deep learning and advanced data visualization techniques.
 - 🔭 Collaborating on data-driven projects with peers.
-- 💬 Keen interest in data analysis, predictive modeling, and forecasting techniques.
+- 💬 Keen interest in predictive modeling, Gen AI and deep learning, and forecasting techniques.
 - 📫 Connect with me: palvi.sharma@mail.mcgill.ca
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
