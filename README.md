@@ -1,5 +1,5 @@
 ## Hi there! I am Palvi 👋
-I'm an aspiring data analyst passionate about uncovering insights from data and Gen AI. Currently studying data science and honing my skills in predictive modeling, data visualization, and analysis. I'm eager to apply my skills in real-world projects.
+I'm an aspiring data analyst/scientist passionate about uncovering insights from data and Gen AI. Currently studying data science and honing my skills in predictive modeling, data visualization, and analysis. I'm eager to apply my skills in real-world projects.
 
 - 🌱 Currently learning deep learning and advanced data visualization techniques.
 - 🔭 Collaborating on data-driven projects with peers.
