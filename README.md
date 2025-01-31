@@ -14,4 +14,9 @@ I'm an aspiring data analyst/scientist passionate about uncovering insights from
 - **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel
 - **Analytical Models:** Regression models, Tree-based, Time-series, Clustering, Pytorch, Generative AI, deep learning, Optimization (linear & non-linear)
 
+**Recent Analytics Projects**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=DeepSeek-AI-Sentiment-Analysis&theme=transparent)](https://github.com/Palvi-Sharma/DeepSeek-AI-Sentiment-Analysis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Energy-Consumption-Forecasting&theme=transparent)](https://github.com/Palvi-Sharma/Energy-Consumption-Forecasting)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Drug-review-sentiment-analysis&theme=transparent)](https://github.com/Palvi-Sharma/Drug-review-sentiment-analysis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Automobile-Price-Prediction&theme=transparent)](https://github.com/Palvi-Sharma/Automobile-Price-Prediction)
+
 ![Profile views](https://komarev.com/ghpvc/?username=Palvi-Sharma)
