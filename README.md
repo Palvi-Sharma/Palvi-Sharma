@@ -9,9 +9,9 @@ I'm an aspiring data analyst/scientist passionate about uncovering insights from
 - ⚡ Fun fact: I enjoy painting landscapes and singing acoustic covers of my favorite songs in my free time!
 
 **Technical Skills:**
-- **Programming Languages**: Python, R, SQL,
+- **Programming Languages**: Python, R, SQL, SAS
 - **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel
+- **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel, Azure Databricks, AWS S3, Quicksight
 - **Analytical Models:** Regression models, Tree-based, Time-series, Clustering, Pytorch, Generative AI, deep learning, Optimization (linear & non-linear)
 
 **Recent Analytics Projects**
