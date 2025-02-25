@@ -10,13 +10,10 @@ I'm an aspiring data analyst/scientist passionate about uncovering insights from
 
 **Technical Skills:**
 - **Programming Languages**: Python, R, SQL, SAS
-- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel, Azure Databricks, AWS S3, Quicksight
-- **Analytical Models:** Regression models, Tree-based, Time-series, Clustering, Pytorch, Generative AI, deep learning, Optimization (linear & non-linear)
+- **Data Analysis Tools**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn,
+- **Software**: RStudio, Gurobi, Azzure, Power BI, Advanced Excel, Azure Databricks, AWS S3, Quicksight, GCP
+- **Analytical Models:** Regression models, Tree-based, Time-series, Clustering, Pytorch, TensorFlow, Generative AI, deep learning, Optimization (linear & non-linear), Causal Inference, A/B Testing, Agile Methodologies, Hypothesis Testing
+- **Industry Specific Analytics** - AI & Deep Learning, Healthcare Analytics, Accounting Analytics, Pricing Analytics, Advanced Analytcis
 
-**Recent Analytics Projects**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=DeepSeek-AI-Sentiment-Analysis&theme=transparent)](https://github.com/Palvi-Sharma/DeepSeek-AI-Sentiment-Analysis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Energy-Consumption-Forecasting&theme=transparent)](https://github.com/Palvi-Sharma/Energy-Consumption-Forecasting)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Drug-review-sentiment-analysis&theme=transparent)](https://github.com/Palvi-Sharma/Drug-review-sentiment-analysis) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Palvi-Sharma&repo=Automobile-Price-Prediction&theme=default)](https://github.com/Palvi-Sharma/Automobile-Price-Prediction)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Palvi-Sharma)
